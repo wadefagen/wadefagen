@@ -1,6 +1,6 @@
 ### Hi, nice to have you here! 🧡💙
 
-I'm Wade Fagen-Ulmschneider – I am faculty in the Department of Computer Science in the Grainger College of Engineering at the University of Illinois (UIUC). My passion is at the intersection of systems, data, and creating tools to nerd out with both systems and data – particularly through interactive tools and data visualizations. In my work, I work to educate, encourage, and inspire you to change the world.  See https://waf.cs.illinois.edu/ for more about my role at UIUC.
+I'm Wade Fagen-Ulmschneider – I am faculty in the School of Computing and Data Science in the Grainger College of Engineering at the University of Illinois (UIUC). My passion is at the intersection of systems, data, and creating tools to nerd out with both systems and data – particularly through interactive tools and data visualizations. In my work, I work to educate, encourage, and inspire you to change the world.  See https://waf.cs.illinois.edu/ for more about my role at UIUC.
 
 
 ### Projects
