@@ -12,13 +12,4 @@ I absolutely love code and there is something ✨ _magical_ ✨ about being able
 - University of Illinois projects and datasets [`wadefagen/datasets`](https://github.com/wadefagen/datasets) including the [GPA visualizations](https://waf.cs.illinois.edu/discovery/gpa/), [UIUC LinkedIn Banner Generator](https://d7.cs.illinois.edu/projects/linkedin-banner-image/), among others.
 
 
-### 2024: The Year of FULL SEND
-
-I never want to stop creating, and each year I choose a theme to define the year.  This year, my theme is to [FULL SEND](https://www.linkedin.com/feed/update/urn:li:activity:7148783633808375808/).  Some projects that I've already started working on:
-
-- [**Mastery Platform**](https://mastery.cs.illinois.edu/platform/), to re-imagine how homework and learning can be done at The University of Illinois and beyond.
-- **Data Science Clicker**, because a great student response system should be simple.
-- **visualized**, to get back to my visualization roots!
-
-
-Come by and say hello and lets nerd out! :)
+### 2025: Pack the Stadium!
