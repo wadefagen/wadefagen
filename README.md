@@ -10,6 +10,3 @@ I absolutely love code and there is something ✨ _magical_ ✨ about being able
 - My Massively Open Online Courses on Coursera [`wadefagen/coursera`](https://github.com/wadefagen/coursera): ["Object-Oriented Data Structures in C++"](https://www.coursera.org/learn/cs-fundamentals-1?specialization=cs-fundamentals) _100k students_, ["Accelerated Computer Science Fundamentals Specialization"](https://www.coursera.org/specializations/cs-fundamentals) _40k students_, ["Ordered Data Structures"](https://www.coursera.org/learn/cs-fundamentals-2?specialization=cs-fundamentals) _20k students_, and ["Unordered Data Structures"](https://www.coursera.org/learn/cs-fundamentals-3) _10k students_.
 - My 91-DIVOC project [`wadefagen/91-divoc`](https://github.com/wadefagen/91-divoc), which provided data-forward visualizations of COVID-19 data, used by [governors](https://www.youtube.com/watch?v=Z3jBUTx5eQ4&t=2633s) of [multiple states](https://www.youtube.com/watch?v=1UoHDfHPvV4&t=888s) during the COVID-19 pandemic.
 - University of Illinois projects and datasets [`wadefagen/datasets`](https://github.com/wadefagen/datasets) including the [GPA visualizations](https://waf.cs.illinois.edu/discovery/gpa/), [UIUC LinkedIn Banner Generator](https://d7.cs.illinois.edu/projects/linkedin-banner-image/), among others.
-
-
-### 2025: Pack the Stadium!
